@@ -6,15 +6,15 @@
 
 .button
 {
-	background-image: url('http://gale57.net/beta/css/images/button.svg');
+	background-image: url('http://mosesgale.github.io/cheer-up/html5up-arcana/css/images/button.svg');
 }
 
 .button:hover
 {
-	background-image: url('http://gale57.net/beta/css/images/button-hover.svg');
+	background-image: url('http://mosesgale.github.io/cheer-up/html5up-arcana/css/images/button-hover.svg');
 }
 
 .button:active
 {
-	background-image: url('http://gale57.net/beta/css/images/button-active.svg');
+	background-image: url('http://mosesgale.github.io/cheer-up/html5up-arcana/css/images/button-active.svg');
 }

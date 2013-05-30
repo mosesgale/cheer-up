@@ -35,7 +35,7 @@
 	#site-header
 	{
 		position: relative;
-		background: url('http://gale57.net/beta/css/images/header.png');
+		background: url('http://mosesgale.github.io/cheer-up/html5up-arcana/css/images/header.png');
 		background-size: 100% 190px;
 		height: 190px;
 		text-shadow: -1px -1px 1px rgba(0,0,0,1);
@@ -109,7 +109,7 @@
 
 			#nav ul li.current_page_item
 			{
-				background: url('http://gale57.net/beta/css/images/nav-arrow.png') center 77px no-repeat;
+				background: url('http://mosesgale.github.io/cheer-up/html5up-arcana/css/images/nav-arrow.png') center 77px no-repeat;
 			}
 
 				#nav ul li.current_page_item a
@@ -136,7 +136,7 @@
 
 		#banner .caption
 		{
-			background: #1e1e1e url('http://gale57.net/beta/css/images/bg3.png') top left repeat-x;
+			background: #1e1e1e url('http://mosesgale.github.io/cheer-up/html5up-arcana/css/images/bg3.png') top left repeat-x;
 			font-size: 2em;
 			color: #aaa;
 			text-align: center;
