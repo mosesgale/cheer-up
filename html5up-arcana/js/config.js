@@ -6,7 +6,7 @@
 
 window._skel_config = {
 	preset: 'standard',
-	prefix: 'css/style',
+	prefix: 'http://mosesgale.github.io/cheer-up/html5up-arcana/css/style',
 	resetCSS: true
 };
 
